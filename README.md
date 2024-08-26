@@ -1,5 +1,5 @@
 # 💫 About Me:
-hola
+Ing. de Sistemas
 
 
 # 💻 Tech Stack:
